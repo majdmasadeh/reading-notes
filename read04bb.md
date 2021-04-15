@@ -20,5 +20,3 @@ there are two types of codes that computers can understand , **zero for false an
  When logic gates are connected they form a circuit. Logic circuits are designed to perform a particular function, understanding the nature of that function requires a logic circuit truth table.
 
  ![image4](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/combination-comb9.gif)
-
-
