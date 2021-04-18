@@ -19,5 +19,9 @@ use circuits to do everything from simple math to simulating entire virtual worl
 there are two types of codes that computers can understand , **zero for false and one for true** .
  When logic gates are connected they form a circuit. Logic circuits are designed to perform a particular function, understanding the nature of that function requires a logic circuit truth table.
 
+<<<<<<< HEAD
 
 
+=======
+ ![image4](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/combination-comb9.gif)
+>>>>>>> 7bad990a0f9db5a07b05ff4d503606a4a46f5093
