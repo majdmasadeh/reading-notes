@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # The Coder's Computer
 
 ## Choosing a Text Editor
@@ -51,20 +51,3 @@ A space on the command line is how we seperate items.
 file obtain information about what type of file a file or directory is. ls -a List the contents of a directory, including hidden files. Everything is a file under Linux Even directories. Linux is an extensionless system Files can have any extension they like or none at all. Linux is case sensitive Beware of silly typos.
 
 ![img5](https://www.systutorials.com/wp/files/2013/07/linux-509308.png)
-=======
-* gg
-> mm,/././.x
-& hhh
-* ec *
-*i*
-:
-=
-+
--
-- 
-*iii*
-**jjj**
-> hkhkhkhkh
-[pldplwd](https://www.google.com/search?q=markdown+quotes&source=lmns&bih=625&biaw=1349&rlz=1C1DIEZ_enJO863JO863&hl=ar&sa=X&ved=2ahUKEwizt_CuhYjwAhWJkKQKHRRtByAQ_AUoAHoECAEQAA
-)
->>>>>>> c5c5db14d1abae85033b9882293b8206486ee9ba
