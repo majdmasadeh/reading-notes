@@ -138,7 +138,7 @@ Loops check a condition, if its retrn true, a code block it will run. Then the c
 - There are Three Common types of Loops
 ** 1- FOR LOOP ** : If you need to run a code a specific number of times, use a for loop (its the most common loop ). In a for loop, a condition is usually a counter which is used to tell how many times the loop should run.
 
-![img5](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
+![img5](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png) . 
 
 ** 2- WHILE LOOP **: If you do not know how many time the code should run, you can use a **while **loop. Here the condition can be something other than a counter, and the code will continue to loop as long as the condition is true.
 
