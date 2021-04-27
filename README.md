@@ -19,6 +19,6 @@
 # toc::[reading code 201]
 
 ## [CLASS01](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/read01.md)
-### [CLASS02](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/read02.md)
-## [CLASS03](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/read02.md)
+### [CLASS02](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/class-02.md)
+## [CLASS03](https://majdmasadeh.github.io/reading-notes/class-03)
 
