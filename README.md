@@ -25,3 +25,4 @@
 |2-3|[class-03.md](class-03.md)  |
 |2-4|[class-044.md](class-044.md)|
 |2-5|[class-05.md](class-05.md)  |
+|2-6|[class-06.md](class-06.md)  |
