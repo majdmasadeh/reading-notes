@@ -20,7 +20,7 @@
 |num|read|
 |---|----|
 | 2 |**202 Reading Notes**       |
-|2-1|[read01.md](read01.md)      |
+|2-1|[class-01.md](class-01.md)  |
 |2-2|[class-02.md](class-02.md)  |
 |2-3|[class-03.md](class-03.md)  |
 |2-4|[class-044.md](class-044.md)|
