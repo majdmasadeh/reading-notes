@@ -1,25 +1,25 @@
 # reading notes :
 *Hello, I'm Majd Al-Masadeh and this is my reading notes 
 
-# toc::[reading code 102]
-
-## [Readme.md](https://github.com/majdmasadeh/reading-notes/blob/main/README.md) 
- ### [read01](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read01.md)          
-## [read02](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read02.md)
-### [read03](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read03.md)
-## [read04b](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read04bb.md)
-### [read04a](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read04.md)
-## [read05](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read05.md)
-### [read06](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read06.md)
-## [read07](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read07.md)
-### [read09](https://github.com/majdmasadeh/reading-notes/blob/main/code%20102%20reading%20notes/read09.md)
 
 
+|num|read|
+|---|----|
+| 1 |**102 Reading Notes**   |
+|1-1|[read01.md](read01.md)  |
+|1-2|[read02.md](read02.md)  |
+|1-3|[read03.md](read03.md)  |
+|1-4|[read04.md](read04.md)|
+|1-5|[read04bb.md](read04bb.md)|
+|1-6|[read05.md](read05.md)  |
+|1-7|[read06.md](read06.md)  |
+|1-8|[read07.md](read07.md)  |
+|1-9|[read09.md](read09.md)  |
 
-# toc::[reading code 201]
 
-## [CLASS01](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/read01.md)
-### [CLASS02](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/class-02.md)
-## [CLASS03](https://majdmasadeh.github.io/reading-notes/class-03)
-### [CLASS04](https://github.com/majdmasadeh/reading-notes/blob/main/Code%20201%20Reading%20Notes/class-04.md)
-
+| 2 |**202 Reading Notes**     |
+|2-1|[read01.md](read01.md)|
+|2-2|[class-02.md](class-02.md)|
+|2-3|[class-03.md](class-03.md)|
+|2-4|[class-044.md](class-044.md)|
+|2-4|[class-05.md](class-05.md)|
