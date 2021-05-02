@@ -1,9 +1,7 @@
 # chapter 6 in html
 ##  table 
 
-The <table> element is used to add tables to a web page. table is drawn out row by row. Each row is created with the <tr> element.Inside each row there are a number of cells represented by the <td> element (or <th> if it is a header).You can make cells of a table span more than one row or column using the rowspan and colspan attributes. For long tables you can split the table into a <thead>, 
-<tbody>, and <tfoot>
-
+The element is used to add tables to a web page. table is drawn out row by row. Each row is created with the  element.Inside each row there are a number of cells represented by the  element (or if it is a header).You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 ![table](https://vertex-academy.com/tutorials/wp-content/uploads/2016/08/table.png)
 The HTML table model allows authors to arrange data -- text, preformatted text, images, links, forms, form fields, other tables, etc. -- into rows and columns of cells.
 
@@ -20,11 +18,7 @@ The process of creating an HTML table is similar to the process that you used to
 
 ** Creating a basic table **
 
-The basic structure of an HTML table consists of the following tags:
 
-1. Table tags:  <TABLE> </TABLE>
-2. Row tags:   <TR> </TR>
-3. Cell tags:    <TD> </TD>
 
 # chapter 3
 ## function, method  and object
