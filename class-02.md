@@ -8,21 +8,21 @@
 ![img1](https://i.ytimg.com/vi/LuHUU9ladBQ/maxresdefault.jpg)
 
 ### Paragraphs
-<p> To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+To create a paragraph, surround the words that make up the paragraph with an opening .tag and closing  tag.
 
 #### Bold & Italic
 
-**** By enclosing words in the tags and </b> we can make characters appear bold.
+**** By enclosing words in the tags  we can make characters appear bold.
 
-**** By enclosing words in the tags and </i> we can make characters appear italic.
+**** By enclosing words in the tags  we can make characters appear italic.
 
 #### semantic markup.
 
-< strong> The use of the < strong>element indicates that its content has strong importance. For example, the words contained in this element might be said with strong emphasis.
+ The use of the element indicates that its content has strong importance. For example, the words contained in this element might be said with strong emphasis.
 
-< em> The < em> element indicates emphasis that subtly changes the meaning of a sentence
+ The  em element indicates emphasis that subtly changes the meaning of a sentence
 
-< blockquote> The < blockquote> element is used for longer quotes that take up an entire paragraph. Note how the < p> element is still used inside the < blockquote> element. 
+ The blockquote element is used for longer quotes that take up an entire paragraph. Note how the element is still used inside the  blockquote element. 
 ![img2](https://miro.medium.com/max/1000/1*zHJFnu7QF-PgUb8108aLcA.png)
 
 # Introducing CSS
