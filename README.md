@@ -30,3 +30,4 @@
 |2-8|[class-08.md](class-08.md)  |
 |2-9|[class-09.md](class-09.md)  |
 |2-10|[class-10.md](class-10.md)  |
+|2-11|[class-11.md](class-11.md)  |
