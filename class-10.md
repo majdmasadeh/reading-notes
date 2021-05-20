@@ -1,4 +1,4 @@
-# welcome to read 10 
+# JS Debugging
 
 ## Error Handling And Debugging
 
@@ -59,6 +59,36 @@
   1. TRY 
   2. CATCH
   3. FINALLY
+
+  ## LOGGING DATA TO THE CONSOLE
+
+1. The first line is used to indicate the script is running
+2. Next an event handler waits for the user leaving a text input,and logs the value that theyentered into that form field.
+3. That the user clicked submit
+4. The value in the width input
+5. The value in the height input
+6. The value of the area variable
+![js](img/4.png)
+
+
+## BREAKPOINTS
+You can pause the execution of a script on any
+line using breakpoints. Then you can check the
+values stored in variables at that point in time
+
+## STEPPING THROUGH CODE
+If you set multiple breakpoints, you can step
+through them one-by-one to see where values
+change and a problem might occur. 
+
+## CONDITIONAL BREAKPOINTS
+You can indicate that a breakpoint should be
+triggered only if a condition that you specify is
+met. The condition can use existing variables.
+
+## HANDLING EXCEPTIONS 
+If you know your code might fail, use try, catch, and finally.
+Each one is given its own code block.
 
   
 
