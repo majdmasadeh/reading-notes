@@ -32,11 +32,12 @@ A header or footer for an individual <article> or <section> within the page.
 
 
 ## 3. extra markup
-    this section discuss a Process that you can use when you are creating a new website , add a comment to your code that will not be visible in the user's browsers .
+
+  this section discuss a Process that you can use when you are creating a new website , add a comment to your code that will not be visible in the user's browsers .
     how you add a page and control with width and hight .
 
 
-## The several tags in HTML:
+**The several tags in HTML:**
 1- DOCCTYPEs: Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using
 
 2- Comments in HTML: If you want to add a comment to your code that will not be visible in the user’s browser, you can add the text between these characters. .
