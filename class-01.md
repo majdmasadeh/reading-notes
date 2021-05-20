@@ -36,6 +36,17 @@ A header or footer for an individual <article> or <section> within the page.
     how you add a page and control with width and hight .
 
 
+## The several tags in HTML:
+1- DOCCTYPEs: Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using
+
+2- Comments in HTML: If you want to add a comment to your code that will not be visible in the user’s browser, you can add the text between these characters. .
+
+3- ID Attribute: Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore.
+
+4- Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block-level elements. Examples of block elements are h1, p, ul, and li.
+
+5- Inline Elements: Some elements will always appear to continue on the same line as their neighboring elements. These are known as inline elements. Examples of inline elements are <>, <**> . 
+ 
 # Java Script
 A script is a series of instructions that a computer can follow to achieve a goal.
 ![img5](https://e3arabi.com/wp-content/uploads/2021/01/%D8%A3%D8%B7%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%84%D8%BA%D8%A9-%D8%AC%D8%A7%D9%81%D8%A7-%D8%B3%D9%83%D8%B1%D8%B3%D9%8A%D8%A8%D8%AA.png)
@@ -57,3 +68,18 @@ It is best to keep JavaScript code in its own JavaScript file. JavaScript files 
 The HTML
 ![img6](https://slideplayer.com/slide/15095987/91/images/2/%3Chtml%3E+%3Cbody%3E+%3Ch1%3EMy+First+Web+Page%3C%2Fh1%3E+%3Cp+id%3D+demo+%3EThis+is+a+paragraph.%3C%2Fp%3E+%3Cscript+type%3D+text%2Fjavascript+%3E+document.getElementById%28+demo+%29.innerHTML%3DDate%28%29%3B+%3C%2Fscript%3E+%3C%2Fbody%3E+%3C%2Fhtml%3E.jpg)
 
+
+# Process and Design:
+
+* It's important to understand w XX ho your target audience
+is, why they would come to your site, what information
+they want to find and when they are likely to return.
+* Site maps allow you to plan the structure of a site.
+* Wireframes allow you to organize the information that
+will need to go on each page.
+* Design is about communication. Visual hierarchy helps
+visitors understand what you are trying to tell them.
+* You can differentiate between pieces of information
+using size, color, and style.
+* You can use grouping and similarity to help simplify
+the information you present.
