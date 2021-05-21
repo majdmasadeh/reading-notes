@@ -63,6 +63,15 @@ Many companies provide platforms for blogging, email
 newsletters, e-commerce and other popular website
 tools (to save you writing them from scratch).
 
+
+### Video and audio 
+
+You can review what all the HTML features do in the article linked above; for our purposes here, the most interesting attribute is controls, which enables the default set of playback controls.
+
+One big issue with the native browser controls is that :
+##### 1. they are different in each browser 
+##### 2. the native controls in most browsers aren't very keyboard-accessible.
+
 # Video :
 
 To show a video in HTML, use the video element.
@@ -91,3 +100,19 @@ To start a video automatically, use the autoplay attribute:
     <source src="movie.ogg" type="video/ogg">
     Your browser does not support the video tag.
      </video>
+
+
+
+## Chapter 19: “Practical Information”
+
+## PRACTICAL INFORMATION
+ -Search engine optimization helps visitors find your sites when using search engines.
+ -Analytics tools such as Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there.
+
+![SEO](https://www.loebigink.com/wp-content/uploads/2016/04/Loebigseo.png)
+
+ -To put your site on the web, you will need to obtain a domain name and web hosting.
+ -FTP programs allow you to transfer files from your local computer to your web server.
+- Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
+
+![FTP](https://th.bing.com/th/id/R49a897ecda8333f2be80e6a93545e362?rik=35O3jJaIAt%2brlA&riu=http%3a%2f%2fwww.highteck.net%2fimages%2f39-FTP.jpg&ehk=8BJttRrR%2fwIbPBfx4puULvRXlw4TCMb3t4bvunFJQ7k%3d&risl=&pid=ImgRaw)
